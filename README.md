@@ -33,7 +33,8 @@ Q[s, a] represents its current estimate of Q*(s,a).
 # Demo
 Let’s say an agent has to move from a starting point to an ending point along a path that has obstacles. 
 The agent needs to reach the target in the shortest path possible without hitting in the obstacles and he needs to follow the boundary covered by the obstacles. 
-For our convenience, I have introduced this in a customized grid environment as follows.
+The demo starts with a customized grid environment as follows.
+
 ![Demo](images/demo.png)
 
 ## Files
